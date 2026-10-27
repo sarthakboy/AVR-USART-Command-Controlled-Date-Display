@@ -124,6 +124,10 @@ The firmware activates one digit at a time and outputs the corresponding segment
 - Add a cleaner command-dispatch structure.
 - Display additional formats, such as `DD-MM-YY` and `HH-MM-SS`.
 
+## DEMO
+
+[Video Link](https://drive.google.com/file/d/10XR3CwxsZccgTypdxIrUW9WCLghdkNZ8/view?usp=drive_link)
+
 ## Author
 
 **Sarthak Pandey**
